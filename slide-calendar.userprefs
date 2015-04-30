@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="slide-calendar/slide-calendar.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Slide-Calendar-Lib/SlideCalendar.cs">
+    <Files>
+      <File FileName="slide-calendar/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="slide-calendar/SampleViewController.cs" Line="1" Column="1" />
+      <File FileName="Slide-Calendar-Lib/SlideCalendar.cs" Line="157" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

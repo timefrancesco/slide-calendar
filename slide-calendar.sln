@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slide-calendar", "slide-calendar\slide-calendar.csproj", "{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slide-Calendar-Lib", "Slide-Calendar-Lib\Slide-Calendar-Lib.csproj", "{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Release|iPhone.Build.0 = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{8595A13C-B977-4EEA-BBD0-B3A8749E18F8}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Release|iPhone.Build.0 = Release|iPhone
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B7EDFE27-1B26-4CF4-B6EE-4C3099CA7076}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
